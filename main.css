@@ -215,6 +215,7 @@ footer a:hover{color:var(--coral)}
 .prep-step h3{font-family:'Manrope';font-size:15px;margin-bottom:6px;color:var(--ink)}
 .prep-step p{font-size:13.5px;color:var(--gray)}
 .localgrid{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+.localgrid+.note{margin-top:24px}
 .local{background:#fff;border:1px solid var(--line);border-radius:14px;padding:22px}
 .local h3{font-size:17.5px;margin-bottom:5px}
 .local p{font-size:14px;color:var(--gray);margin-bottom:10px}
