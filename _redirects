@@ -1,2 +1,29 @@
-# Cloudflare Pages resolves clean URLs and slug/index.html natively.
-# No rewrite/redirect rules needed — keep this file comments-only.
+# Blog slug renames (city added). Both trailing-slash and bare forms.
+/blog/backflow-prevention-101/ /blog/backflow-prevention-pflugerville-tx/ 301
+/blog/backflow-prevention-101 /blog/backflow-prevention-pflugerville-tx/ 301
+/blog/galvanized-polybutylene-pipes/ /blog/galvanized-polybutylene-pipes-pflugerville-tx/ 301
+/blog/galvanized-polybutylene-pipes /blog/galvanized-polybutylene-pipes-pflugerville-tx/ 301
+/blog/garbage-disposal-what-not-to-put-down/ /blog/garbage-disposal-care-pflugerville-tx/ 301
+/blog/garbage-disposal-what-not-to-put-down /blog/garbage-disposal-care-pflugerville-tx/ 301
+/blog/high-water-bill-causes/ /blog/high-water-bill-pflugerville-tx/ 301
+/blog/high-water-bill-causes /blog/high-water-bill-pflugerville-tx/ 301
+/blog/hydro-jetting-vs-snaking/ /blog/hydro-jetting-vs-snaking-pflugerville-tx/ 301
+/blog/hydro-jetting-vs-snaking /blog/hydro-jetting-vs-snaking-pflugerville-tx/ 301
+/blog/repair-or-repipe-aging-pipes/ /blog/repair-or-repipe-pflugerville-tx/ 301
+/blog/repair-or-repipe-aging-pipes /blog/repair-or-repipe-pflugerville-tx/ 301
+/blog/sewer-line-root-intrusion-signs/ /blog/sewer-line-root-intrusion-pflugerville-tx/ 301
+/blog/sewer-line-root-intrusion-signs /blog/sewer-line-root-intrusion-pflugerville-tx/ 301
+/blog/shut-off-main-water-valve/ /blog/shut-off-main-water-valve-pflugerville-tx/ 301
+/blog/shut-off-main-water-valve /blog/shut-off-main-water-valve-pflugerville-tx/ 301
+/blog/slab-leak-causes-clay-soil/ /blog/slab-leak-causes-pflugerville-tx/ 301
+/blog/slab-leak-causes-clay-soil /blog/slab-leak-causes-pflugerville-tx/ 301
+/blog/tank-vs-tankless-water-heater/ /blog/tank-vs-tankless-water-heater-pflugerville-tx/ 301
+/blog/tank-vs-tankless-water-heater /blog/tank-vs-tankless-water-heater-pflugerville-tx/ 301
+/blog/water-damage-emergency-checklist/ /blog/water-damage-emergency-checklist-pflugerville-tx/ 301
+/blog/water-damage-emergency-checklist /blog/water-damage-emergency-checklist-pflugerville-tx/ 301
+/blog/water-heater-flushing-hard-water/ /blog/water-heater-flushing-pflugerville-tx/ 301
+/blog/water-heater-flushing-hard-water /blog/water-heater-flushing-pflugerville-tx/ 301
+/blog/why-does-my-toilet-keep-running/ /blog/why-does-my-toilet-keep-running-pflugerville-tx/ 301
+/blog/why-does-my-toilet-keep-running /blog/why-does-my-toilet-keep-running-pflugerville-tx/ 301
+/blog/winterizing-pipes-texas-freeze/ /blog/winterizing-pipes-pflugerville-tx/ 301
+/blog/winterizing-pipes-texas-freeze /blog/winterizing-pipes-pflugerville-tx/ 301
