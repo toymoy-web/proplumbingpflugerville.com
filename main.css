@@ -299,3 +299,7 @@ main article p.note-wide{margin-top:18px;max-width:none}
  .hero.has-hero{padding:56px 0}
  .has-hero:before{background:linear-gradient(180deg,rgba(24,28,36,.9),rgba(24,28,36,.82))}
 }
+
+.social{display:flex;flex-wrap:wrap;gap:8px;margin-top:16px}
+footer .social a{display:inline-block;margin:0;padding:6px 12px;border:1px solid var(--line);border-radius:100px;font-weight:600;font-size:13px;color:var(--storm-d)}
+footer .social a:hover{border-color:var(--coral);color:var(--coral-d)}
